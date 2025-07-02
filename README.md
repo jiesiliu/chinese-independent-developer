@@ -19,6 +19,14 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2025 年 7 月 3 号添加
+* :white_check_mark: [Vibe Musicing AI](https://vibemusicing.com/)：基于AI面向普通人的音乐生成器，提供免费试用。
+
+* :white_check_mark: [Italian Brainrot Generator](https://aiitalianbrainrot.com/)：生成属于你的意大利脑腐动物图像、[声音](https://aiitalianbrainrot.com/italian-brainrot-voice)！
+
+* :white_check_mark: [Free PDF To Link Converter](https://pdftolink.im/)：快速转换PDF为链接，安全分享，简单高效！
+
+* :white_check_mark: [YouTube Comment Finder](https://comment-finder.com/youtube-comment-finder)
 
 ### 2025 年 7 月 2 号添加
 #### yelo1900 - [Github](https://github.com/yelo1900)
